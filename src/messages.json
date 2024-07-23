@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Message from User",
+      "content": "Hey, how are you doing today?",
+      "received": "10 minutes ago"
+    },
+    {
+      "title": "Message from SecretAdmirer",
+      "content": "I really liked your recent post!",
+      "received": "2 hours ago"
+    },
+    {
+      "title": "Message from AnonGuest",
+      "content": "Do you have any movie recommendations?",
+      "received": "1 day ago"
+    }
+  ]
